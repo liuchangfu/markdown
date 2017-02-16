@@ -8,7 +8,7 @@
  
 * 内部链接1，链接仓库的其他文件:[demo1](demo1.md)
 
-* 内部链接2，链接本文档的其他部分:[代码块demo](demo2.md#代码块-demo)
+* 内部链接2，链接本文档的其他部分:[代码块demo](demo2.md#代码块demo)
 
 
 ### 引用式链接
@@ -85,7 +85,7 @@ console.log(a);
 
 [demo1]:demo1.md
 
-[代码块demo]:demo2.md#代码块-demo
+[代码块demo]:demo2.md#代码块demo
 
 [open_png]:img/Git.png
 
