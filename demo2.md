@@ -71,12 +71,6 @@ console.log(a);
     var a = 10;
     console.log(a);
 
-
-    var a=10;
-    console.log(a);
-
-
-
 <!--- 下面是本文档中的用到的链接-->
 
 [百度]:http://www.baidu.com
