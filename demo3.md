@@ -16,7 +16,13 @@ ___
 
 <p align='center'>hello world!</p>
 
+<!--
+这里不显示
+-->
 
+<p align='center'>
+<img  src='https://www.baidu.com/img/bd_logo1.png'/>
+</p>
 
 ## 表格
 
@@ -42,7 +48,7 @@ Github Flvored Markdown,GFM
 
 - [x] item1
 
-- [] item1
+- [ ] item1
 
 
  emoji 表情符号
@@ -52,3 +58,5 @@ Github Flvored Markdown,GFM
 :snake:
 
 
+<!-- 下面是引用到的链接-->
+[百度]: http://www.baidu.com
