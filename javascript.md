@@ -7,7 +7,7 @@ JavaScript 可以用于两种类型的 Selenese 参数：脚本参数和非脚�
 下面的例子说明了如何使用 JavaScript 代码片段来执行一个简单的数值计算：  
 
 |**命令**|**目标**|**值**|
-|：---：|：---：|:---：|
+|---|------|-------|
 |store|Edith Wharton|name|
 |storeEval|storedVars[‘name’].toUpperCase()|uc|
 |storeEval|storedVars[‘name’].toLowerCase()|lc|
@@ -20,6 +20,6 @@ JavaScript 脚本还可以用于生成参数的值，即使没有指定参数是
 
 
 |**命令**|**目标**|**值**|
-|：---：|：---：|:---：|
+|---|-------|-------|
 |store|league of nations|searchString|
 |type|q|javascript{storedVars[‘searchString’].toUpperCase()}|
