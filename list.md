@@ -10,7 +10,7 @@
   * [日志/参考/UI元素/回滚面板](Features.md#日志/参考/UI元素/回滚窗格) 
      * [日志窗格](Features.md#日志窗格)     
      * [参考窗格](Features.md#参考窗格)   
-     * [UI元素和回滚窗格](Features.md#UI-元素和回滚窗格)  
+     * [UI元素和回滚窗格](Features.md#UI元素和回滚窗格)  
 * 制作测试案例  
   * 录制  
   * 断言和验证  
