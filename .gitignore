@@ -1,0 +1,4 @@
+# 忽略HBuilder创建的.project 
+
+.project
+
