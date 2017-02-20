@@ -25,7 +25,7 @@
 
 * 图片的markdown语法
 
-![alt](url txt)
+ 	```![alt](url txt)```
 
 * 外部图片demo
 
