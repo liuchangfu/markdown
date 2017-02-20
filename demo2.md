@@ -63,6 +63,10 @@
 
 这个代码中是用来声明变量是`var a=10`, 打印变量内容是`console.log`函数调用
 
+代码如下所示：
+
+![](img/dyh.png)
+
 * 块式代码
 
 第一种方法:使用一对各三个的反引号：
@@ -71,6 +75,7 @@
 var a = 10;
 console.log(a);
 ```
+代码如下所示：
 
 ![](img/sgfy.png)
 
@@ -78,6 +83,8 @@ console.log(a);
 
     var a = 10;
     console.log(a);
+
+代码如下所示：
 
 ![](img/sgkg.png)
 
