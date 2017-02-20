@@ -72,11 +72,14 @@ var a = 10;
 console.log(a);
 ```
 
+![](img/sgfy.png)
+
 第二种方法：在文本开头加入1个Tab或者4个空格。
 
     var a = 10;
     console.log(a);
 
+![](img/sgkg.png)
 
 <!--- 下面是本文档中的用到的链接-->
 
